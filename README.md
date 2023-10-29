@@ -32,18 +32,18 @@ De cada disco se guardarán los siguientes datos:
    -Arte de portada
    -id
 El api deberá de poseer las siguientes llamadas:
-GET ->
-  -Obtener todos los discos existentes
-  -Obtener un disco mediante id
-  -Obtener listado de discos según nombre
-  -Obtener listado de discos según formato
-  -Obtener listado de discos según país de impresión
+GET:
+  1.Obtener todos los discos existentes
+  2.Obtener un disco mediante id
+  3.Obtener listado de discos según nombre
+  4.Obtener listado de discos según formato
+  5.Obtener listado de discos según país de impresión
 POST ->
-  -Crear nuevo disco
+  1.Crear nuevo disco
 PUT ->
-  -Actualizar un disco existente indicándolo por su id
+  1.Actualizar un disco existente indicándolo por su id
 DELETE ->
-  -Eliminar un disco mediante su id
+  1.Eliminar un disco mediante su id
 
 
       

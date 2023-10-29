@@ -1,6 +1,4 @@
-![image](https://github.com/pbloGlez/Practica_3---API_REST-Discos-/assets/113451860/f25f403b-d0ae-433b-9db4-5dff21d41aec)|![image](https://github.com/pbloGlez/Practica_3---API_REST-Discos-/assets/113451860/ee710e01-0b3c-4f14-8918-3e1a61d07ee8)
-
-
+  ![image](https://github.com/pbloGlez/Practica_3---API_REST-Discos-/assets/113451860/f25f403b-d0ae-433b-9db4-5dff21d41aec)|
 # Practica_3-ApiRest-Discos-
 API REST (Express, Deno, TypeScript).  Tercera práctica de la asignatura de Arquitectura y Programación en sistemas de internet
 

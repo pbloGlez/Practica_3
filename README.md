@@ -11,13 +11,14 @@ etc. Que gracias a las funciones añadidas, puedes leer, crear, actualizar o eli
 ¡Espero que la disfrutes!
 
 SCHEMA o CAMPOS
-|    Key    |    Type    |   Description  |
-|   nombre  |------|----------------|
-|   autor   |------|----------------|
-|  formato  |------|----------------|
-|  matriz   |------|----------------|
-|    pais   |------|----------------|
-|    id     |------|----------------|
+|    Key    |    Type  |    Description   |
+|-----------|----------|------------------|
+|   nombre  |  String  | Nombre del disco |
+|   autor   |  String  |----------------|
+|  formato  |  String  |----------------|
+|  matriz   |  Boolean |----------------|
+|    pais   |  String  |----------------|
+|    id     |  String  |----------------|
 
 
 

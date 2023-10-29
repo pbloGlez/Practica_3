@@ -19,15 +19,33 @@ SCHEMA o CAMPOS
 |  matriz   |  Boolean |Si el disco es matriz|
 |    pais   |  String  |Pais de impresión del disco|
 |    id     |  String  |Identificador único del disco|
+_____________________________________________________________
+ENUNCIADO
+-------------------------------------------------------------
+Crear un API para el guardado de discos de música. 
+De cada disco se guardarán los siguientes datos:
+   -Nombre
+   -Autor
+   -Formato (LP, CD, single, cassette, reel to reel, minidisc, videocd ...)
+   -Matriz (si existe)
+   -País de impresión
+   -Arte de portada
+   -id
+El api deberá de poseer las siguientes llamadas:
+GET ->
+  -Obtener todos los discos existentes
+  -Obtener un disco mediante id
+  -Obtener listado de discos según nombre
+  -Obtener listado de discos según formato
+  -Obtener listado de discos según país de impresión
+POST ->
+  -Crear nuevo disco
+PUT ->
+  -Actualizar un disco existente indicándolo por su id
+DELETE ->
+  -Eliminar un disco mediante su id
 
-GETs aplicables
------------------------------------------------------------
-GETS EJECUTABLES :
-  1. Pedir todos los discos de la BBDD con : /getAllDisco
-  2. Puedes pedir un disco mediante el _id con : /getDisco/:id
-  3. Listado de discos según el nombre con : /getNombreDisco/:nombre
-  5. Listado de discos según el formato con : /getFormatDisco/:formato
-  6. Listado de discos según el país de impresión con : /getCountryDisco/:pais
+
       
 
 

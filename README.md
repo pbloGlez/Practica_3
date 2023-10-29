@@ -20,6 +20,10 @@ SCHEMA o CAMPOS
 |    pais   |  String  |Pais de impresión del disco|
 |    id     |  String  |Identificador único del disco|
 
+GET de todos los discos
+-----------------------------------------------------------
+Puedes pedir todos los discos de la BBDD con la url: */getAllDisco*
+
 
 
 

@@ -188,7 +188,7 @@ El api deberá de poseer las siguientes llamadas:
 ### DELETE
 
 - Eliminar un disco mediante su id
-
+[Documentación de la API](#documentacion-de-la-api)
 
 
 

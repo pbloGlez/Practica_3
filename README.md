@@ -127,9 +127,36 @@ Puedes pedir la información de un disco por su `pais`
     "arte": "Actual"
 }
 ````
-
-
-
+### POST de un disco
+Añades un disco nuevo a la colección
+- POST `/addDisco`
+````json
+{
+    "nombre": "Electric LadyLand",
+    "autor": "Jimi Hendrix",
+    "formato": "CD",
+    "matriz": "false",
+    "pais": "EEUU",
+    "arte": "90´s",
+    "id": "6543db4527007ddd3eeb64b7"
+}
+````
+### PUT de un disco
+Actualizas la información un disco con todos sus datos y con su `id`
+- PUT `/upgradeDisco/6543db4527007ddd3eeb64b7`
+````json
+{
+    "nombre" : "The Cry of Love",
+    "autor": "Jimi Hendrix",
+    "formato": "CD",
+    "matriz": "false",
+    "pais": "EEUU",
+    "arte": "90´s"
+}
+````
+### DELETE de un disco
+Borras un disco de la colección por su `id`
+- DELETE `/upgradeDisco/:id`
 
 
 

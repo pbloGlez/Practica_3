@@ -38,7 +38,7 @@ DELETE --> Elimina un disco mediante su ID
 
 ## ENDPOINTS INTRODUCIDOS
 ### GET de todos los discos
-GET `/getAllDisco`
+- GET `/getAllDisco`
 ````json
 [
     {
@@ -74,9 +74,9 @@ GET `/getAllDisco`
 //....
 ]
 ````
-### GET de un disco
+### GET de un disco (id)
 Puedes pedir la información de un disco por su `id`
-GET `/getDisco/653d7e72dfc5a47c53a9dded`
+- GET `/getDisco/653d7e72dfc5a47c53a9dded`
 ````json
 {
     "nombre": "Back in Black",
@@ -88,6 +88,21 @@ GET `/getDisco/653d7e72dfc5a47c53a9dded`
     "id": "653d7e72dfc5a47c53a9dded"
 }
 ````
+### GET de un disco (nombre)
+Puedes pedir la información de un disco por su `nombre`
+- GET `/getNombreDisco/SEN2 KBRON VOl. 2`
+````json
+{
+    "nombre" : "SEN2 KBRON VOL. 2",
+    "autor": "Eladio Carrion",
+    "formato": "CD",
+    "matriz": "false",
+    "pais": "Puerto Rico",
+    "arte": "Actual"
+}
+````
+
+
 
 
 

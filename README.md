@@ -1,8 +1,7 @@
 # Practica_3-ApiRest-Discos-
 API REST (Express, Deno, TypeScript).  Tercera práctica de la asignatura de Arquitectura y Programación en sistemas de internet
-
-1. Documentación de la API.
-2. Enunciado 
+      1. Documentación de la API.
+      2. Enunciado 
 ____________________________________________________________
 DOCUMENTACIÓN DE LA API
 ------------------------------------------------------------
@@ -20,8 +19,7 @@ SCHEMA o CAMPOS
 |    pais   |  String  |Pais de impresión del disco|
 |    id     |  String  |Identificador único del disco|
 _____________________________________________________________
-> [!NOTE]
-> EndPoints añadidos en esta práctica
+##ENDPOINTS
 -------------------------------------------------------------
 Get
       

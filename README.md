@@ -21,7 +21,7 @@ SCHEMA o CAMPOS
 _____________________________________________________________
 ## ENDPOINTS
 GETS --> Obtienes información a cerca de los discos.
-- Obtener todos los discos existentes -> ``` "/getAllDisco" ```
+- (#pedir todos)Obtener todos los discos existentes -> ``` "/getAllDisco" ```
 - Obtener un disco mediante id -> ``` "/getDisco/:id" ```
 - Obtener listado según el nombre -> ``` "/getNombreDisco/:nombre" ```
 - Obtener listado según el formato -> ``` "/getFormatoDisco/:formato" ```
@@ -37,8 +37,7 @@ DELETE --> Elimina un disco mediante su ID
 - Elimina un disco por id -> ``` "/deleteDisco/:id" ```
 
 ## ENDPOINTS INTRODUCIDOS
-### GET
------------
+### GET de todos los discos (#pedirTodos)
 
 
 

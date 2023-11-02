@@ -20,8 +20,8 @@ SCHEMA o CAMPOS
 |    pais   |  String  |Pais de impresión del disco|
 |    id     |  String  |Identificador único del disco|
 _____________________________________________________________
-> [!IMPORTANT] 
-ENDPOINTS
+> [!NOTE]
+> EndPoints añadidos en esta práctica
 -------------------------------------------------------------
 Get
       

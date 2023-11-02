@@ -38,9 +38,8 @@ DELETE --> Elimina un disco mediante su ID
 
 ## ENDPOINTS INTRODUCIDOS
 - Añadir disco y disco añadido:
-  
+<img width="250" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/9ce96ec7-3416-421b-98d3-09de46e11479">
 <img width="250" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/4ea176bc-b472-4d6b-b625-2f593ddddbd9">
-<img width="236" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/9ce96ec7-3416-421b-98d3-09de46e11479">
 
       
       

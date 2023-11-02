@@ -35,6 +35,10 @@ PUT --> Actualiza la info. de un disco existente por su ID
 
 DELETE --> Elimina un disco mediante su ID
 - Elimina un disco por id -> ``` "/deleteDisco/:id" ```
+
+## ENDPOINTS INTRODUCIDOS
+- Añadir disco : <img width="250" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/4ea176bc-b472-4d6b-b625-2f593ddddbd9">
+
       
       
 

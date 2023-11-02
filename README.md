@@ -22,7 +22,8 @@ _____________________________________________________________
 ## ENDPOINTS
 -------------------------------------------------------------
 GETS -> Obtienes información a cerca de los discos.
-      - Obtener todos los discos existentes --> ``` "/getAllDisco ```
+- Obtener todos los discos existentes --> ``` "/getAllDisco ```
+      
       
 
 

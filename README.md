@@ -24,7 +24,7 @@ GETS --> Obtienes información a cerca de los discos.
 - Obtener todos los discos existentes -> ``` "/getAllDisco" ```
 - Obtener un disco mediante id -> ``` "/getDisco/:id" ```
 - Obtener listado según el nombre -> ``` "/getNombreDisco/:nombre" ```
-- Obtener listado según el formato -> ``` "/getFormatoDisco/:formato" ```
+- Obtener listado según el formato -> ``` "/getFormatDisco/:formato" ```
 - obtener listado según el país de impresion -> ``` "/getCountryDisco/:pais" ```
 
 POST --> Crear un nuevo disco
@@ -101,6 +101,34 @@ Puedes pedir la información de un disco por su `nombre`
     "arte": "Actual"
 }
 ````
+### GET de un disco (formato)
+Puedes pedir la información de un disco por su `formato`
+- GET `/getFormatDisco/Single`
+````json
+{
+    "nombre" : "SEN2 KBRON VOL. 2",
+    "autor": "Eladio Carrion",
+    "formato": "CD",
+    "matriz": "false",
+    "pais": "Puerto Rico",
+    "arte": "Actual"
+}
+````
+### GET de un disco (pais)
+Puedes pedir la información de un disco por su `pais`
+- GET `/getCountryDisco/Puerto Rico`
+````json
+{
+    "nombre" : "SEN2 KBRON VOL. 2",
+    "autor": "Eladio Carrion",
+    "formato": "CD",
+    "matriz": "false",
+    "pais": "Puerto Rico",
+    "arte": "Actual"
+}
+````
+
+
 
 
 

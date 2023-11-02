@@ -1,4 +1,4 @@
-# Practica_3-ApiRest-Discos-
+# Practica_3
 API REST (Express, Deno, TypeScript).  Tercera práctica de la asignatura de Arquitectura y Programación en sistemas de internet
 1. [Documentación API](#documentacion-api)
 2. [Enunciado](#enunciado)

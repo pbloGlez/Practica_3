@@ -20,12 +20,21 @@ SCHEMA o CAMPOS
 |    id     |  String  |Identificador único del disco|
 _____________________________________________________________
 ## ENDPOINTS
-### GETS -> Obtienes información a cerca de los discos.
+GETS --> Obtienes información a cerca de los discos.
 - Obtener todos los discos existentes -> ``` "/getAllDisco" ```
 - Obtener un disco mediante id -> ``` "/getDisco/:id" ```
 - Obtener listado según el nombre -> ``` "/getNombreDisco/:nombre" ```
 - Obtener listado según el formato -> ``` "/getFormatoDisco/:formato" ```
 - obtener listado según el país de impresion -> ``` "/getCountryDisco/:pais" ```
+
+POST --> Crear un nuevo disco
+- Crea un nuevo disco -> ``` "/addDisco" ```
+
+PUT --> Actualiza la info. de un disco existente por su ID
+- Actualiza la info de un disco por su id -> ``` "/upgradeDisco/:id" ```
+
+DELETE --> Elimina un disco mediante su ID
+- Elimina un disco por id -> ``` "/deleteDisco/:id" ```
       
       
 

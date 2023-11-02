@@ -37,8 +37,7 @@ DELETE --> Elimina un disco mediante su ID
 - Elimina un disco por id -> ``` "/deleteDisco/:id" ```
 
 ## ENDPOINTS INTRODUCIDOS
-----------------------------------------------------------
-## GET
+### GET
 -----------
 
 

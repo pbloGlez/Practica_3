@@ -20,32 +20,10 @@ SCHEMA o CAMPOS
 |    pais   |  String  |Pais de impresión del disco|
 |    id     |  String  |Identificador único del disco|
 _____________________________________________________________
-ENUNCIADO
+[!IMPORTANT] 
+ENDPOINTS
 -------------------------------------------------------------
-Crear un API para el guardado de discos de música. 
-De cada disco se guardarán los siguientes datos:
-   -Nombre
-   -Autor
-   -Formato (LP, CD, single, cassette, reel to reel, minidisc, videocd ...)
-   -Matriz (si existe)
-   -País de impresión
-   -Arte de portada
-   -id
-El api deberá de poseer las siguientes llamadas:
-GET:
-  1.Obtener todos los discos existentes
-  2.Obtener un disco mediante id
-  3.Obtener listado de discos según nombre
-  4.Obtener listado de discos según formato
-  5.Obtener listado de discos según país de impresión
-POST ->
-  1.Crear nuevo disco
-PUT ->
-  1.Actualizar un disco existente indicándolo por su id
-DELETE ->
-  1.Eliminar un disco mediante su id
-
-
+Get
       
 
 

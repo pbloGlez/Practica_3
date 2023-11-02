@@ -42,11 +42,13 @@ POST
 - Añadir/crear disco y disco añadido:
 <img width="250" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/9ce96ec7-3416-421b-98d3-09de46e11479">
 <img width="250" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/4ea176bc-b472-4d6b-b625-2f593ddddbd9">
-Discos en la MongoDB
+- Discos en MongoDB
 <img width="500" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/0a5d8faf-2c27-44f3-8140-19251799d4c6">
 
 GET
 - Obtener todos los discos:
+- <img width="567" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/651052bb-c75b-4ee9-a95a-198873d71846">
+
   
 
       

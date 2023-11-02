@@ -22,9 +22,11 @@ _____________________________________________________________
 ## ENDPOINTS
 -------------------------------------------------------------
 GETS -> Obtienes información a cerca de los discos.
-- Obtener todos los discos existentes --> ``` "/getAllDisco" ```
-- Obtener un disco mediante id --> ``` "/getDisco/:id" ```
-- Obtener listado de discos según el nombre --> ``` "/getNombreDisco/:nombre" ```
+- Obtener todos los discos existentes -> ``` "/getAllDisco" ```
+- Obtener un disco mediante id -> ``` "/getDisco/:id" ```
+- Obtener listado según el nombre -> ``` "/getNombreDisco/:nombre" ```
+- Obtener listado según el formato -> ``` "/getFormatoDisco/:formato" ```
+- obtener listado según el país de impresion -> ``` "/getCountryDisco/:pais" ```
       
       
 

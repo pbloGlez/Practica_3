@@ -20,7 +20,6 @@ SCHEMA o CAMPOS
 |    id     |  String  |Identificador único del disco|
 _____________________________________________________________
 ## ENDPOINTS
--------------------------------------------------------------
 GETS -> Obtienes información a cerca de los discos.
 - Obtener todos los discos existentes -> ``` "/getAllDisco" ```
 - Obtener un disco mediante id -> ``` "/getDisco/:id" ```

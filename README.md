@@ -21,7 +21,7 @@ SCHEMA o CAMPOS
 _____________________________________________________________
 ## ENDPOINTS
 GETS --> Obtienes información a cerca de los discos.
-- (#pedir todos)Obtener todos los discos existentes -> ``` "/getAllDisco" ```
+- Obtener todos los discos existentes -> ``` "/getAllDisco" ```
 - Obtener un disco mediante id -> ``` "/getDisco/:id" ```
 - Obtener listado según el nombre -> ``` "/getNombreDisco/:nombre" ```
 - Obtener listado según el formato -> ``` "/getFormatoDisco/:formato" ```
@@ -37,7 +37,42 @@ DELETE --> Elimina un disco mediante su ID
 - Elimina un disco por id -> ``` "/deleteDisco/:id" ```
 
 ## ENDPOINTS INTRODUCIDOS
-### GET de todos los discos (#pedirTodos)
+### GET de todos los discos
+GET `/getAllDisco`
+````json
+[
+    {
+        "_id": "653d7e72dfc5a47c53a9dded",
+        "nombre": "Back in Black",
+        "autor": "ACDC",
+        "formato": "CD",
+        "matriz": "false",
+        "pais": "Canadá",
+        "arte": "Es un grupo rocambolesco",
+        "__v": 0
+    },
+    {
+        "_id": "653e4f140bd49399fb433824",
+        "nombre": "Mi carro me lo robaron",
+        "autor": "Manolete",
+        "formato": "CD",
+        "matriz": "false",
+        "pais": "España",
+        "arte": "Esta cancione tiene mas años que tu",
+        "__v": 0
+    },
+    {
+        "_id": "6543ca0427007ddd3eeb64a8",
+        "nombre": "SEN2 KBRON VOL. 2",
+        "autor": "Eladio Carrion",
+        "formato": "CD",
+        "matriz": "false",
+        "pais": "Puerto Rico",
+        "arte": "Actual",
+        "__v": 0
+    }
+]
+
 
 
 

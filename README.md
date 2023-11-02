@@ -39,19 +39,19 @@ DELETE --> Elimina un disco mediante su ID
 ## ENDPOINTS INTRODUCIDOS
 ----------------------------------------------------------
 POST
-- Añadir/crear disco y disco añadido:
-<img width="250" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/9ce96ec7-3416-421b-98d3-09de46e11479">
-<img width="250" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/4ea176bc-b472-4d6b-b625-2f593ddddbd9">
-- Discos en MongoDB
+> Añadir/crear disco y disco añadido:
+- <img width="250" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/9ce96ec7-3416-421b-98d3-09de46e11479">
+- <img width="250" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/4ea176bc-b472-4d6b-b625-2f593ddddbd9">
+> Discos en MongoDB
 <img width="500" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/0a5d8faf-2c27-44f3-8140-19251799d4c6">
-
+----------------------------------------------------------
 GET
-- Obtener todos los discos:
+> Obtener todos los discos:
 <img width="500" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/8b191db3-1c39-4baf-a665-034ebc1183f7">
-- Obtener discos mediante id:
+> Obtener discos mediante id:
 <img width="500" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/69720e6d-226b-4f74-8adb-1aa4eb825ee9">
-- Obtener listado de disco por nombre, formato y país de impresión:
-<img width="500" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/8f2747d6-f340-4b35-8aca-cb6a8ff15923"> | <img width="500" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/75a7ce57-e533-45b1-8174-56fc3a096708">
+> Obtener listado de disco por nombre, formato y país de impresión:
+> <img width="500" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/8f2747d6-f340-4b35-8aca-cb6a8ff15923"> | <img width="500" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/75a7ce57-e533-45b1-8174-56fc3a096708">
 
 
 

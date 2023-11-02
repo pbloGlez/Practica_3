@@ -74,6 +74,20 @@ GET `/getAllDisco`
 //....
 ]
 ````
+### GET de un disco
+Puedes pedir la información de un disco por su `id`
+GET `/getDisco/653d7e72dfc5a47c53a9dded`
+````json
+{
+    "nombre": "Back in Black",
+    "autor": "ACDC",
+    "formato": "CD",
+    "matriz": "false",
+    "pais": "Canadá",
+    "arte": "Es un grupo rocambolesco",
+    "id": "653d7e72dfc5a47c53a9dded"
+}
+````
 
 
 

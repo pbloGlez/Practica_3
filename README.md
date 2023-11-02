@@ -50,8 +50,7 @@ POST
 1. <img width="500" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/8b191db3-1c39-4baf-a665-034ebc1183f7">
 > Obtener discos mediante id:
 1. <img width="500" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/69720e6d-226b-4f74-8adb-1aa4eb825ee9">
-> Obtener listado de disco por nombre, formato y país de impresión:
-1. <img width="500" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/8f2747d6-f340-4b35-8aca-cb6a8ff15923"><img width="500" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/75a7ce57-e533-45b1-8174-56fc3a096708">
+> Obtener listado de disco por nombre, formato y país de impresión: <img width="500" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/8f2747d6-f340-4b35-8aca-cb6a8ff15923"><img width="500" alt="image" src="https://github.com/pbloGlez/Practica_3/assets/113451860/75a7ce57-e533-45b1-8174-56fc3a096708">
 
 
 

@@ -1,7 +1,7 @@
 # Practica_3-ApiRest-Discos-
 API REST (Express, Deno, TypeScript).  Tercera práctica de la asignatura de Arquitectura y Programación en sistemas de internet
-      - [Documentación de la API]. (#documentacion)
-      - [Enunciado] (#enunciado)
+1. [Documentación de la API]. (#documentacion-de-la-api)
+2. [Enunciado] (#enunciado)
 ____________________________________________________________
 ## DOCUMENTACIÓN DE LA API
 ------------------------------------------------------------
@@ -157,7 +157,7 @@ Actualizas la información un disco con todos sus datos y con su `id`
 ### DELETE de un disco
 Borras un disco de la colección por su `id`
 - DELETE `/upgradeDisco/:id`
-
+---------------------------------------------------
 ## Enunciado
 Crear un API para el guardado de discos de música.  De cada disco se guardarán los siguientes datos:
 - Nombre

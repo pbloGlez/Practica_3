@@ -70,8 +70,10 @@ GET `/getAllDisco`
         "pais": "Puerto Rico",
         "arte": "Actual",
         "__v": 0
-    }
+    },
+//....
 ]
+````
 
 
 
